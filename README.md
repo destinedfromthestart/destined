@@ -1,16 +1,17 @@
-## Hi there 👋
+## moneyissogood
 
-<!--
-**moneyissogood/moneyissogood** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+welcome to my github page, which there is probably nthn here at the time of u reading this.  
+i only post stuff if it's like an old driver i don’t use anymore, usually cuz it’s detected or just straight garbage 💔  
+don’t expect anything crazy like a full anticheat bypass
 
-Here are some ideas to get you started:
+### what i do:
+- c
+- c++
+- kernel stuff (learning heavy rn)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+still very early in the learning phase, especially in kernel 
+i’m not perfect and won’t be for a few years.  
+every day’s a new learning experience depending on how it goes.
+
+### contact:
+discord — `@moneyyissogood`
