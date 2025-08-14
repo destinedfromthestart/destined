@@ -1,6 +1,6 @@
 ## destinedfromthestart
 
-i've quit developing cheats permanently unless they are eventually or a good cause if thats even possible -
+i've quit developing cheats permanently unless they are eventually for a good cause if thats even possible -
 i am currently working on my own kernel anti-cheat called Pluto Rapid Intervention Detection Enforcement.
 
 as the name suggests, this doesnt just detect, but prevents cheaters in realtime.
